@@ -1,2 +1,3 @@
 # git-github
-Reporsitory
+Repository
+This is for tutorial purpose
